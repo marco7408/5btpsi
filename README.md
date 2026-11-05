@@ -1,2 +1,2 @@
 # 5btpsi
-Repository di esempio per la lezione su github
+Per usare questo progetto, scaricalo su VS Code
